@@ -1,4 +1,4 @@
-package com.example.layered;
+package com.example.layered.dto;
 
 import lombok.Getter;
 

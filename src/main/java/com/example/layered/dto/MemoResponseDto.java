@@ -1,5 +1,6 @@
-package com.example.layered;
+package com.example.layered.dto;
 
+import com.example.layered.entuty.Memo;
 import lombok.Getter;
 
 @Getter
